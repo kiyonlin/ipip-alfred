@@ -3,7 +3,7 @@ geo ip query &amp;&amp; ip parse
 
 # usage
 ## geo ip query
-![geo](./images/gep.png)
+![geo](./images/geo.png)
 
 ## ip parse
 ![parse ip](./images/ip.png)
@@ -13,4 +13,4 @@ geo ip query &amp;&amp; ip parse
 ![parse hex](./images/hex.png)
 
 # download
-[ipip alfred](https://github.com/kiyonlin/ipip-alfred/releases/download/v1.0/ipip.alfredworkflow)
+[ipip.alfredworkflow](https://github.com/kiyonlin/ipip-alfred/releases/download/v1.0/ipip.alfredworkflow)
